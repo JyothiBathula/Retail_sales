@@ -43,12 +43,12 @@
   -  Laptops and Phones together generated approximately 85.4% of totals sales revenue.
      
 ## City Sales Analysis
-  -  Highest Revenue city : (£1,760)
+  -  Highest Revenue city :London (£1,760)
   -  Second Highest Revenue City : Manchester (£1,020)
   -  Lowest Revenue City : Sheffield (£170)
   -  London contributed approximately 48.5% of total sales revenue.
   -  Business Insight : London to Manchester were the strongest revenue - generating cities in this sample dataset
-  -  
+     
 ## Monthly Sales Analysis
   - January 2025 Revenue : £1,420
   - February 2025 Revenue : £240
