@@ -29,7 +29,7 @@
  - `Retail_sales_Analysis.sql` - SQL queries used for cleaning and analysis.
  - `retail_sales_cleaned.csv` - Retail sales dataset.
 
-## Key Learning Outcomes
+## Key Business Insights
   - Total sales Revenue : £3,630
   - Total Orders : 10
   - Dataset period : January to March 2025
