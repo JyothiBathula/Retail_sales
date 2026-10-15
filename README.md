@@ -56,11 +56,22 @@
   - Highest Revenue Month : March 2025
   - Lowest Revenue Month : February 2025
   - Total Revenue Month : £3,630
-    
+
  ## Business Insights
   - sales revenue decreased significantly in February.
   - March recorded the highest monthly revenue.
   - The business experienced a strong recovery in sales during March.
+
+## Category Sales Analysis
+  - Electronics Revenue : £3,200
+  - Fashion Revenue : £430
+  - Highest Revenue Category : Electronics
+  - Electronics Contributed approximately 88.2% of total sales revenue
+
+## Category Business Insights
+  - Electronics was the highest revenue generating category
+  - Fashion contributed approximately 11.8% of total_revenue
+  - The business generated most of its revenue from Electronics Products.
 
 
  ## Future Improvements
