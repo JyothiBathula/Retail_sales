@@ -35,6 +35,12 @@
   - Dataset period : January to March 2025
   - Products Analysed : Laptop , Shoes, Phone ,T-Shirt, Headphones and Jeans
   - Cities Analysed : London, Manchester, Birmingham, Sheffield and Leeds
+    
+ ## Product Revenue Analysis
+  -  Highest Revenue Product : Laptop (£1,700)
+  -  Second Highest Revenue product : Phone (£1,400)
+  -  Lowest Revenue product : Jeans (£800)
+  -  Laptops and Phones together generated approximately 85.4% of totals sales revenue.
 
  ## Future Improvements
   - Analysis a larger retail dataset.
