@@ -1,0 +1,11 @@
+order_id,order_date,customer_name,product_name,category,quantity,price,city
+1,2025-01-10,john,Laptop,Electronics,1,800.00,London
+2,2025-01-12,Emma,Shoes,Fashion,2,60.00,manchester
+3,2025-01-15,david,Phone,Electronics,1,500.00,Birmingham
+4,2025-02-01,sophia,T-Shirt,Fashion,3,20.00,London
+5,2025-02-05,James,Headphones,Electronics,2,50.00,sheffield
+6,2025-02-10,olivia,Jeans,fashion,2,40.00,leeds
+7,2025-03-01,daniel,Laptop,Electronics,1,900.00,London
+8,2025-03-05,Mia,Shoes,Fashion,1,70.00,Sheffield
+9,2025-03-10,Naoh,Phone,Electronics,2,450.00,Manchester
+10,2025-03-15,Ava,T-Shirt,Fashion,4,25.00,Leeds
