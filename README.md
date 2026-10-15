@@ -39,7 +39,7 @@
  ## Product Revenue Analysis
   -  Highest Revenue Product : Laptop (£1,700)
   -  Second Highest Revenue product : Phone (£1,400)
-  -  Lowest Revenue product : Jeans (£800)
+  -  Lowest Revenue product : Jeans (£80)
   -  Laptops and Phones together generated approximately 85.4% of totals sales revenue.
 
  ## Future Improvements
