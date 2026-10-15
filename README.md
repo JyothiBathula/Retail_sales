@@ -73,6 +73,18 @@
   - Fashion contributed approximately 11.8% of total_revenue
   - The business generated most of its revenue from Electronics Products.
 
+## Customer Purchase Analysis
+  - Highest spending customers : Daniel (£900) and Noah (£900)
+  - Third Highest spending customer : John (£800)
+  - Lowest Spending customer : Sophia (£60)
+  - Total Customers Analysed : 10
+
+## Customer Business Insights
+  - Daniel and Noah were the highest-spending customers, each contributing £900 in sales
+  - Together ,Daniel and Noah generated approximately 49.6% of total revenue.
+  - John was the third- highest-spending customer, contributing £800
+  - The business could explore loyalty rewards for its highest-spending customers
+
 
  ## Future Improvements
   - Analysis a larger retail dataset.
