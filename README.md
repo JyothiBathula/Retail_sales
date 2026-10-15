@@ -26,16 +26,16 @@
 ## Dataset
  The project uses a fictional retail sales dataset containing 10 sales records.
  ### Project Files
- . `Retail_sales_Analysis.sql` - SQL queries used for cleaning and analysis.
- . `retail_sales_cleaned.csv` - Retail sales dataset.
+ - `Retail_sales_Analysis.sql` - SQL queries used for cleaning and analysis.
+ - `retail_sales_cleaned.csv` - Retail sales dataset.
 
 ## Key Learning Outcomes
    This project helped me practice SQL querying ,data cleaning, aggregation and basic business analysis.
 
  ## Future Improvements
-  . Analysis a larger retail dataset.
-  . Create a Power Bi dashboard
-  . Develop more advanced SQL queries.
+  - Analysis a larger retail dataset.
+  - Create a Power Bi dashboard
+  - Develop more advanced SQL queries.
  
 
 
