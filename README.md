@@ -30,7 +30,11 @@
  - `retail_sales_cleaned.csv` - Retail sales dataset.
 
 ## Key Learning Outcomes
-   This project helped me practice SQL querying ,data cleaning, aggregation and basic business analysis.
+  - Total sales Revenue : £3,630
+  - Total Orders : 10
+  - Dataset period : January to March 2025
+  - Products Analysed : Laptop , Shoes, Phone ,T-Shirt, Headphones and Jeans
+  - Cities Analysed : London, Manchester, Birmingham, Sheffield and Leeds
 
  ## Future Improvements
   - Analysis a larger retail dataset.
