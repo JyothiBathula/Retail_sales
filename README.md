@@ -22,13 +22,18 @@
  4. Examine monthly sales trends.
  5. Identity and standardise inconsistent category names
  6. Check for missing values and duplicate order IDs.
+    
+## Project Files
+  - Retail_sales_Analysis.sql - Main SQL analysis queries.
+  - retail_sales_cleaned.csv - Cleaned retail sales dataset.
+  - Monthly_Sales_Analysis.sql - Monthly revenue analysis.
+  - Category_Sales_Analysis.sql - Category-wise sales analysis.
+  - Customer_Purchase_Analysis.sql - Customer Spending analysis.
+  - README.md - Project documentation.
  
 ## Dataset
  The project uses a fictional retail sales dataset containing 10 sales records.
- ### Project Files
- - `Retail_sales_Analysis.sql` - SQL queries used for cleaning and analysis.
- - `retail_sales_cleaned.csv` - Retail sales dataset.
-
+ 
 ## Key Business Insights
   - Total sales Revenue : £3,630
   - Total Orders : 10
