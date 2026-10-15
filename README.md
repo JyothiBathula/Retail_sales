@@ -48,6 +48,19 @@
   -  Lowest Revenue City : Sheffield (£170)
   -  London contributed approximately 48.5% of total sales revenue.
   -  Business Insight : London to Manchester were the strongest revenue - generating cities in this sample dataset
+  -  
+## Monthly Sales Analysis
+  - January 2025 Revenue : £1,420
+  - February 2025 Revenue : £240
+  - March 2025 Revenue : £1,970
+  - Highest Revenue Month : March 2025
+  - Lowest Revenue Month : February 2025
+  - Total Revenue Month : £3,630
+    
+ ## Business Insights
+  - sales revenue decreased significantly in February.
+  - March recorded the highest monthly revenue.
+  - The business experienced a strong recovery in sales during March.
 
 
  ## Future Improvements
